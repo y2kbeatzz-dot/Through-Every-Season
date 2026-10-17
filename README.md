@@ -13,14 +13,7 @@ A compassionate space for self-harm and suicide awareness, coping, connection, a
 - Search metadata, canonical URL, structured data, and sitemap.xml.
 - GoatCounter integration ready for setup; no fabricated view numbers.
 
-## Connect GoatCounter later
 
-1. Create a GoatCounter site for this website.
-2. In GoatCounter settings, enable “Allow adding visitor counts on your website”.
-3. Edit analytics.json and replace null with your site origin, for example:
-
-```json
-{"goatcounterOrigin": "https://YOURCODE.goatcounter.com"}
 ```
 
 The endpoint is public, not a secret. Never put an API token or password in this repository. Counts may be cached for up to four hours. The counter reports site visits according to GoatCounter’s counting rules, not a unique lifetime audience.
