@@ -14,14 +14,5 @@ A compassionate space for self-harm and suicide awareness, coping, connection, a
 - GoatCounter integration ready for setup; no fabricated view numbers.
 
 
-```
-
-The endpoint is public, not a secret. Never put an API token or password in this repository. Counts may be cached for up to four hours. The counter reports site visits according to GoatCounter’s counting rules, not a unique lifetime audience.
-
-## Google Search
-
-The website can be crawled and its sitemap is available at /Through-Every-Season/sitemap.xml. To request indexing, verify the URL-prefix property in Google Search Console, then submit the sitemap. Verification needs the site owner's Google account and verification token. Indexing is Google's decision and is not immediate or guaranteed. A robots.txt inside a GitHub project subdirectory does not control the domain root, so this project does not pretend to provide one.
-
-## Care and privacy
 
 This educational website is not a live counseling service. Resources link to the NHS, 988 Lifeline, and SAMHSA. Theme and motion preferences are browser-local. YouTube loads after choosing a song. Once configured, GoatCounter collects analytics under its own privacy policy. No account, personal story, or health details are collected by this website.
